@@ -10,6 +10,16 @@
     "respuestaCorrecta": 1
   },
   {
+    "pregunta": "¿Cual es el mejor pais?",
+    "opciones": [
+      "Real Sociedad",
+      "ALicante",
+      "Murcia",
+      "Niza"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
     "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
     "opciones": [
       "Marte",
