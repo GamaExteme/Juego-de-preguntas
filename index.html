@@ -1,16 +1,24 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>replit</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <meta charset="UTF-8">
+  <title>Juego de Preguntas</title>
+  <link rel="stylesheet" href="style.css"> <!--Esto hace referencia a la hoja de estilos-->
+  
 </head>
-
 <body>
-  Hello world
-  <script src="script.js"></script>
-</body>
 
+  <!-- Contiene el html de nuestro juego -->
+  <div class="container">
+    <h1>Juego de Preguntas</h1>
+    <p id="pregunta"></p>
+    <div id="opciones"></div>
+    <button
+      onclick="mostrarPregunta()" id="botonEmpezar">Empezar</button>
+    <p id="puntuacion"></p>
+  </div>
+
+  <!-- Enlaza el html con el javascript que vamos a desarrollar -->
+  <script src="quiz.js"></script>
+</body>
 </html>

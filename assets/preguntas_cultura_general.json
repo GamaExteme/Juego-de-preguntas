@@ -1,0 +1,1002 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "opciones": [
+      "Marsella",
+      "París",
+      "Lyon",
+      "Niza"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+    "opciones": [
+      "Marte",
+      "Júpiter",
+      "Venus",
+      "Saturno"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+    "opciones": [
+      "Mario Vargas Llosa",
+      "Pablo Neruda",
+      "Julio Cortázar",
+      "Gabriel García Márquez"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "opciones": [
+      "Amazonas",
+      "Nilo",
+      "Yangtsé",
+      "Misisipi"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna?",
+    "opciones": [
+      "1969",
+      "1971",
+      "1965",
+      "1975"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana?",
+    "opciones": [
+      "Hidrógeno",
+      "Oxígeno",
+      "Nitrógeno",
+      "Dióxido de carbono"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón?",
+    "opciones": [
+      "Yuan",
+      "Dólar",
+      "Yen",
+      "Won"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel?",
+    "opciones": [
+      "Alemania",
+      "Italia",
+      "Francia",
+      "España"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura?",
+    "opciones": [
+      "Termómetro",
+      "Manómetro",
+      "Barómetro",
+      "Altímetro"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "opciones": [
+      "Índico",
+      "Pacífico",
+      "Atlántico",
+      "Ártico"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia? (2)",
+    "opciones": [
+      "Marsella",
+      "París",
+      "Niza",
+      "Lyon"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo? (2)",
+    "opciones": [
+      "Saturno",
+      "Júpiter",
+      "Marte",
+      "Venus"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'? (2)",
+    "opciones": [
+      "Mario Vargas Llosa",
+      "Gabriel García Márquez",
+      "Pablo Neruda",
+      "Julio Cortázar"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo? (2)",
+    "opciones": [
+      "Misisipi",
+      "Amazonas",
+      "Yangtsé",
+      "Nilo"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna? (2)",
+    "opciones": [
+      "1975",
+      "1969",
+      "1965",
+      "1971"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana? (2)",
+    "opciones": [
+      "Hidrógeno",
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Oxígeno"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón? (2)",
+    "opciones": [
+      "Yuan",
+      "Yen",
+      "Won",
+      "Dólar"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel? (2)",
+    "opciones": [
+      "Francia",
+      "Italia",
+      "España",
+      "Alemania"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura? (2)",
+    "opciones": [
+      "Barómetro",
+      "Termómetro",
+      "Altímetro",
+      "Manómetro"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo? (2)",
+    "opciones": [
+      "Ártico",
+      "Índico",
+      "Atlántico",
+      "Pacífico"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia? (3)",
+    "opciones": [
+      "París",
+      "Niza",
+      "Marsella",
+      "Lyon"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo? (3)",
+    "opciones": [
+      "Venus",
+      "Júpiter",
+      "Saturno",
+      "Marte"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'? (3)",
+    "opciones": [
+      "Julio Cortázar",
+      "Gabriel García Márquez",
+      "Pablo Neruda",
+      "Mario Vargas Llosa"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo? (3)",
+    "opciones": [
+      "Misisipi",
+      "Yangtsé",
+      "Nilo",
+      "Amazonas"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna? (3)",
+    "opciones": [
+      "1975",
+      "1971",
+      "1965",
+      "1969"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana? (3)",
+    "opciones": [
+      "Nitrógeno",
+      "Hidrógeno",
+      "Dióxido de carbono",
+      "Oxígeno"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón? (3)",
+    "opciones": [
+      "Yen",
+      "Dólar",
+      "Won",
+      "Yuan"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel? (3)",
+    "opciones": [
+      "Alemania",
+      "Francia",
+      "España",
+      "Italia"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura? (3)",
+    "opciones": [
+      "Termómetro",
+      "Barómetro",
+      "Altímetro",
+      "Manómetro"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo? (3)",
+    "opciones": [
+      "Pacífico",
+      "Ártico",
+      "Índico",
+      "Atlántico"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia? (4)",
+    "opciones": [
+      "Marsella",
+      "Niza",
+      "Lyon",
+      "París"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo? (4)",
+    "opciones": [
+      "Marte",
+      "Venus",
+      "Saturno",
+      "Júpiter"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'? (4)",
+    "opciones": [
+      "Mario Vargas Llosa",
+      "Julio Cortázar",
+      "Pablo Neruda",
+      "Gabriel García Márquez"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo? (4)",
+    "opciones": [
+      "Yangtsé",
+      "Misisipi",
+      "Amazonas",
+      "Nilo"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna? (4)",
+    "opciones": [
+      "1965",
+      "1975",
+      "1971",
+      "1969"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana? (4)",
+    "opciones": [
+      "Hidrógeno",
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Oxígeno"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón? (4)",
+    "opciones": [
+      "Dólar",
+      "Yen",
+      "Won",
+      "Yuan"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel? (4)",
+    "opciones": [
+      "Francia",
+      "Alemania",
+      "España",
+      "Italia"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura? (4)",
+    "opciones": [
+      "Altímetro",
+      "Termómetro",
+      "Barómetro",
+      "Manómetro"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo? (4)",
+    "opciones": [
+      "Pacífico",
+      "Ártico",
+      "Índico",
+      "Atlántico"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia? (5)",
+    "opciones": [
+      "Marsella",
+      "Lyon",
+      "Niza",
+      "París"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo? (5)",
+    "opciones": [
+      "Saturno",
+      "Júpiter",
+      "Marte",
+      "Venus"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'? (5)",
+    "opciones": [
+      "Mario Vargas Llosa",
+      "Julio Cortázar",
+      "Gabriel García Márquez",
+      "Pablo Neruda"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo? (5)",
+    "opciones": [
+      "Nilo",
+      "Misisipi",
+      "Yangtsé",
+      "Amazonas"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna? (5)",
+    "opciones": [
+      "1969",
+      "1975",
+      "1971",
+      "1965"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana? (5)",
+    "opciones": [
+      "Oxígeno",
+      "Dióxido de carbono",
+      "Hidrógeno",
+      "Nitrógeno"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón? (5)",
+    "opciones": [
+      "Won",
+      "Yen",
+      "Dólar",
+      "Yuan"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel? (5)",
+    "opciones": [
+      "Francia",
+      "España",
+      "Italia",
+      "Alemania"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura? (5)",
+    "opciones": [
+      "Altímetro",
+      "Barómetro",
+      "Manómetro",
+      "Termómetro"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo? (5)",
+    "opciones": [
+      "Atlántico",
+      "Índico",
+      "Ártico",
+      "Pacífico"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia? (6)",
+    "opciones": [
+      "París",
+      "Niza",
+      "Marsella",
+      "Lyon"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo? (6)",
+    "opciones": [
+      "Saturno",
+      "Venus",
+      "Júpiter",
+      "Marte"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'? (6)",
+    "opciones": [
+      "Pablo Neruda",
+      "Gabriel García Márquez",
+      "Julio Cortázar",
+      "Mario Vargas Llosa"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo? (6)",
+    "opciones": [
+      "Misisipi",
+      "Amazonas",
+      "Nilo",
+      "Yangtsé"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna? (6)",
+    "opciones": [
+      "1975",
+      "1969",
+      "1965",
+      "1971"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana? (6)",
+    "opciones": [
+      "Oxígeno",
+      "Hidrógeno",
+      "Nitrógeno",
+      "Dióxido de carbono"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón? (6)",
+    "opciones": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Dólar"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel? (6)",
+    "opciones": [
+      "Francia",
+      "Alemania",
+      "España",
+      "Italia"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura? (6)",
+    "opciones": [
+      "Barómetro",
+      "Termómetro",
+      "Manómetro",
+      "Altímetro"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo? (6)",
+    "opciones": [
+      "Ártico",
+      "Atlántico",
+      "Índico",
+      "Pacífico"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia? (7)",
+    "opciones": [
+      "Niza",
+      "Lyon",
+      "París",
+      "Marsella"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo? (7)",
+    "opciones": [
+      "Saturno",
+      "Marte",
+      "Venus",
+      "Júpiter"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'? (7)",
+    "opciones": [
+      "Julio Cortázar",
+      "Mario Vargas Llosa",
+      "Gabriel García Márquez",
+      "Pablo Neruda"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo? (7)",
+    "opciones": [
+      "Yangtsé",
+      "Misisipi",
+      "Nilo",
+      "Amazonas"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna? (7)",
+    "opciones": [
+      "1975",
+      "1965",
+      "1969",
+      "1971"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana? (7)",
+    "opciones": [
+      "Hidrógeno",
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Oxígeno"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón? (7)",
+    "opciones": [
+      "Dólar",
+      "Yen",
+      "Won",
+      "Yuan"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel? (7)",
+    "opciones": [
+      "Italia",
+      "España",
+      "Alemania",
+      "Francia"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura? (7)",
+    "opciones": [
+      "Barómetro",
+      "Altímetro",
+      "Manómetro",
+      "Termómetro"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo? (7)",
+    "opciones": [
+      "Atlántico",
+      "Ártico",
+      "Índico",
+      "Pacífico"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia? (8)",
+    "opciones": [
+      "Lyon",
+      "Marsella",
+      "Niza",
+      "París"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo? (8)",
+    "opciones": [
+      "Marte",
+      "Júpiter",
+      "Venus",
+      "Saturno"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'? (8)",
+    "opciones": [
+      "Mario Vargas Llosa",
+      "Julio Cortázar",
+      "Pablo Neruda",
+      "Gabriel García Márquez"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo? (8)",
+    "opciones": [
+      "Yangtsé",
+      "Amazonas",
+      "Nilo",
+      "Misisipi"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna? (8)",
+    "opciones": [
+      "1971",
+      "1975",
+      "1969",
+      "1965"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana? (8)",
+    "opciones": [
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Oxígeno",
+      "Hidrógeno"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón? (8)",
+    "opciones": [
+      "Won",
+      "Dólar",
+      "Yen",
+      "Yuan"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel? (8)",
+    "opciones": [
+      "Alemania",
+      "Italia",
+      "España",
+      "Francia"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura? (8)",
+    "opciones": [
+      "Barómetro",
+      "Termómetro",
+      "Manómetro",
+      "Altímetro"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo? (8)",
+    "opciones": [
+      "Atlántico",
+      "Pacífico",
+      "Ártico",
+      "Índico"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia? (9)",
+    "opciones": [
+      "Lyon",
+      "Marsella",
+      "Niza",
+      "París"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo? (9)",
+    "opciones": [
+      "Marte",
+      "Venus",
+      "Saturno",
+      "Júpiter"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'? (9)",
+    "opciones": [
+      "Pablo Neruda",
+      "Mario Vargas Llosa",
+      "Julio Cortázar",
+      "Gabriel García Márquez"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo? (9)",
+    "opciones": [
+      "Amazonas",
+      "Misisipi",
+      "Nilo",
+      "Yangtsé"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna? (9)",
+    "opciones": [
+      "1975",
+      "1969",
+      "1971",
+      "1965"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana? (9)",
+    "opciones": [
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Hidrógeno",
+      "Oxígeno"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón? (9)",
+    "opciones": [
+      "Dólar",
+      "Yen",
+      "Yuan",
+      "Won"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel? (9)",
+    "opciones": [
+      "Francia",
+      "Italia",
+      "Alemania",
+      "España"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura? (9)",
+    "opciones": [
+      "Termómetro",
+      "Manómetro",
+      "Barómetro",
+      "Altímetro"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo? (9)",
+    "opciones": [
+      "Ártico",
+      "Pacífico",
+      "Atlántico",
+      "Índico"
+    ],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia? (10)",
+    "opciones": [
+      "París",
+      "Marsella",
+      "Niza",
+      "Lyon"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo? (10)",
+    "opciones": [
+      "Saturno",
+      "Venus",
+      "Marte",
+      "Júpiter"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'? (10)",
+    "opciones": [
+      "Gabriel García Márquez",
+      "Pablo Neruda",
+      "Julio Cortázar",
+      "Mario Vargas Llosa"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo? (10)",
+    "opciones": [
+      "Nilo",
+      "Misisipi",
+      "Amazonas",
+      "Yangtsé"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna? (10)",
+    "opciones": [
+      "1971",
+      "1965",
+      "1975",
+      "1969"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana? (10)",
+    "opciones": [
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Hidrógeno"
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón? (10)",
+    "opciones": [
+      "Yen",
+      "Dólar",
+      "Yuan",
+      "Won"
+    ],
+    "respuestaCorrecta": 0
+  },
+  {
+    "pregunta": "¿Qué país es famoso por la Torre Eiffel? (10)",
+    "opciones": [
+      "España",
+      "Italia",
+      "Alemania",
+      "Francia"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura? (10)",
+    "opciones": [
+      "Altímetro",
+      "Manómetro",
+      "Barómetro",
+      "Termómetro"
+    ],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo? (10)",
+    "opciones": [
+      "Índico",
+      "Pacífico",
+      "Atlántico",
+      "Ártico"
+    ],
+    "respuestaCorrecta": 1
+  }
+]
